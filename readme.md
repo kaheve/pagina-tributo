@@ -1,0 +1,120 @@
+# teste-vite                                                                               ## Vite
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Página de Homenagem - Dra. Jaqueline Goes de Jesus</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: #333;
+      }
+
+      #main {
+        padding: 20px;
+        max-width: 800px;
+        margin: 0 auto;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      #title {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+      }
+
+      #img-div {
+        margin: 20px 0;
+      }
+
+      #image {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 8px;
+      }
+
+      #img-caption {
+        margin-top: 10px;
+        font-style: italic;
+      }
+
+      #tribute-info {
+        text-align: justify;
+        margin: 30px 0;
+        line-height: 1.6;
+      }
+
+      #tribute-link {
+        display: inline-block;
+        margin-top: 20px;
+        text-decoration: none;
+        background-color: #007acc;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 5px;
+      }
+
+      #tribute-link:hover {
+        background-color: #005fa3;
+      }
+      #main {
+      background-color: #fff5ee
+      }
+    </style>
+  </head>
+  <body>
+    <main id="main">
+      <h1 id="title"> Dra. Jaqueline Goes de Jesus</h1>
+
+      <div id="img-div">
+        <img
+          id="image"
+          src="https://th.bing.com/th/id/OIP.Xuth9_M1H8m7V06NA4TjqgAAAA?w=360&h=240&rs=1&pid=ImgDetMain"
+          alt="Dra Jaqueline segurando uma miniatura sua."
+        />
+        <div id="img-caption">
+         Dra. Jaqueline Goes de Jesus,  a brasileira que sequenciou o coronavírus em 48h.
+        </div>
+      </div>
+
+      <div id="tribute-info">
+        <p>
+          O estudo desenvolvido pela equipe de Jaqueline tem uma razão muito nobre para ter atingido a popularidade que atingiu: a identificação precoce é um dos caminhos mais eficientes para direcionar as ações que ajudam a conter surtos de contágio, para reconhecer os focos de transmissão e para que os órgãos públicos tomem as medidas de precaução. Permitiu que a identificação precoce de vírus, essencial no controle de surtos e na tomada de decisões públicas. Ela explica que conhecer rapidamente o genoma viral ajuda a rastrear a transmissão. Apesar do reconhecimento por sequenciar em 48 horas, Jaqueline destaca que sua equipe costuma realizar esse processo em 12 a 24 horas como parte da rotina.
+
+
+        </p>
+      </div>
+<div id="img-div">
+        <img
+          id="image"
+          src="https://ichef.bbci.co.uk/news/640/cpsprodpb/4D6A/production/_111781891_gettyimages-615320790-1.jpg"
+          alt="Coronavírus."
+        />
+      <a
+        id="tribute-link"
+        href="https://revistamarieclaire.globo.com/Work/noticia/2020/05/conheca-cientista-negra-e-nordestina-que-coordena-luta-contra-o-covid-19-no-brasil.html"
+        target="_blank"
+        >Saiba mais sobre Dra. Jaqueline Goes de Jesus</a
+      >
+      <a
+        id="tribute-link"
+        href="https://www.metropoles.com/saude/jaqueline-goes-de-jesus-a-brasileira-que-sequenciou-o-coronavirus-em-48h"
+        target="_blank"
+        >Segunda opção de informações sobre a Dra. Jaqueline Goes de Jesus</a
+      >
+
+      <p>
+        <font face="OCR ASTD" color="bright pink">
+        Obrigada por sua atenção! Visite nosso site mais vezes. 
+        </p>
+    </main>
+  </body>
+</html>
